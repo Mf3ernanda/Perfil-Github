@@ -1,6 +1,7 @@
 ### Oii! eu sou a Fernanda
 
-- 🌱 Sistema da internet\sistemas de infromação
+- Sistema da internet\completo\Tecnólogo 
+- Sitemas para Informação\6° período\Bacharel
 - 😄 Pronouns:ela\dela
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
